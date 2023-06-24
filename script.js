@@ -25,7 +25,7 @@ function startTimer() {
 // Update the timer display
 function updateTimer() {
   const elapsedTime = Math.floor((Date.now() - startTime) / 1000);
-  timer.textContent = elapsedTime;
+  // timer.textContent = elapsedTime;
 }
 
 // Check the typed text
