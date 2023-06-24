@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.quote-display {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.quote-display p {
+  margin: 0;
+}
+
+.timer {
+  font-weight: bold;
+}
